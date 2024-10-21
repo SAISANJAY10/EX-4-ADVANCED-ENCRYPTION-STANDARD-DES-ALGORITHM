@@ -1,4 +1,4 @@
-# EX-7-ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM
+# EX-7-Implement DES Encryption and Decryption
 ## DATE:
 ## AIM:
   Implementation of Pseudorandom Number Generation Using Standard library.
